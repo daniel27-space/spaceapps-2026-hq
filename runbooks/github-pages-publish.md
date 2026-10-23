@@ -5,3 +5,6 @@
 4. Private repos need a paid plan for Pages; otherwise make the entry repo public before publishing.
 5. Smoke test on phone, iPad and laptop; check console for 404s (case-sensitive paths).
 6. Keep total asset size small (practice: ~2 MB assets, <2 MB per JSON).
+
+## Submission note (2026-10-23)
+The final project link and demo link have to be public with no login (seen in past years; confirm in the 13 Nov guide). So the entry repo/Pages site should be public by Sunday.
