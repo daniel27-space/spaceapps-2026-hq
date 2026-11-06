@@ -4,7 +4,10 @@ Event is VIRTUAL: no venue/travel; everyone works remotely, sync via a video cal
 ## Before the weekend
 - [ ] Both: register on hub + sign up for Singapore local event + same team (by Fri 13 Nov)
 - [ ] Optional: Meetup RSVP by Thu 12 Nov 23:59 SGT; local Google Form; Discord
+- [x] Daniel: decide challenge — Lunar Landing Site Navigator (locked 2026-11-06)
+- [ ] Fri 13 Nov: re-scrape Lunar Landing Site Navigator Resources tab (dataset links due 13 Nov), save to research/
 - [ ] Fri 13 Nov: read Project Submission + Judging guides; update CONTEXT.md
+- [ ] Sat 14 Nov 09:00: create fresh entry repo (see runbooks/fresh-entry-repo.md); no practice code
 - [ ] Optional: Fri 13 Nov in-person briefing (venue TBA)
  Owner: Daniel / Teammate / AI.
 
