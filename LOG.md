@@ -1,6 +1,7 @@
 # Log
 Append-only. Newest at top. Format: YYYY-MM-DD HH:MM SGT | who | what.
 
+- 2026-11-14 12:29 SGT | Selene | Wrote runbooks/submission-guide.md from the official 13 Nov Project Submission and Judging & Awards guides plus the 13:04 official video (transcript via Firecrawl; captions look automatic). For Nich to use at submit.
 - 2026-11-06 11:50 SGT | Selene | Challenge locked: Lunar Landing Site Navigator (Daniel via Billy). Decision 0001 closed. Fresh-repo build plan added under runbooks/. HQ notes from 30 Oct (statements + scored comparison) syncing to GitHub.
 - 2026-10-30 08:20 SGT | Selene | Full challenge statements live; saved both under research/; Resources tabs empty until 13 Nov. Decision 0001 updated: recommend Lunar Landing Site Navigator (29 vs 25) with fresh-build rules; Daniel decides.
 - 2026-10-28 12:10 SGT | Selene (routine) | Checked both challenge pages via Firecrawl: only summaries live, Resources tabs "coming soon"; full statements not out yet. Re-check routine set for 08:00/22:00 SGT through 31 Oct.

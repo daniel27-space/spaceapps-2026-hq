@@ -6,7 +6,8 @@ Event is VIRTUAL: no venue/travel; everyone works remotely, sync via a video cal
 - [ ] Optional: Meetup RSVP by Thu 12 Nov 23:59 SGT; local Google Form; Discord
 - [x] Daniel: decide challenge — Lunar Landing Site Navigator (locked 2026-11-06)
 - [ ] Fri 13 Nov: re-scrape Lunar Landing Site Navigator Resources tab (dataset links due 13 Nov), save to research/
-- [ ] Fri 13 Nov: read Project Submission + Judging guides; update CONTEXT.md
+- [x] Fri 13 / Sat 14 Nov: read official Project Submission + Judging guides (live 13 Nov); runbook at runbooks/submission-guide.md (CONTEXT.md not updated in this pass)
+- [x] Sat 14 Nov: submission runbook for Nich — [runbooks/submission-guide.md](runbooks/submission-guide.md)
 - [ ] Sat 14 Nov 09:00: create fresh entry repo (see runbooks/fresh-entry-repo.md); no practice code
 - [ ] Optional: Fri 13 Nov in-person briefing (venue TBA)
  Owner: Daniel / Teammate / AI.
@@ -38,10 +39,12 @@ Event is VIRTUAL: no venue/travel; everyone works remotely, sync via a video cal
 - [ ] Data sources and AI-tool use written up for submission
 - [ ] LOG.md updated
 
-## Submission checklist (teammate, by 23:59 SGT Sun)
+## Submission checklist (Nich, target Sun 22:00, hard stop 23:59 SGT)
+Use the full checklist in [runbooks/submission-guide.md](runbooks/submission-guide.md). Official limits confirmed 14 Nov 2026:
+
 - [ ] Project title, summary, challenge selected
 - [ ] Demo link + repo link (public if required)
-- [ ] Demo: 30-s video OR <=7 slides, public no-login link, English (confirm in 13 Nov guide)
+- [ ] Demo: 30-s or less video OR at most 7 slides including title/intro; public no-login link; English (or English subtitles on a spoken-other-language video)
 - [ ] Final project link public, no login
 - [ ] AI/"SI" use described
 - [ ] NASA data + resources cited
